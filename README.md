@@ -1,6 +1,6 @@
 # Installation
 If you don't have Blender 3D, get it here: https://www.blender.org/download/ Either version will work.
-Download terrain_nodes.zip, DO NOT EXTRACT IT, open Blender, Preferences > Add-ons > Install select terrain_nodes.zip and install.
+Download terrain_nodes.zip, DO NOT EXTRACT IT, open Blender, Preferences > Add-ons > Install then open location of terrain_nodes.zip and install.
 
 # How To Use
 If you have used Blender Nodes before this will be easy, a more detailed tutorial will be coming later..
@@ -17,11 +17,13 @@ Currently this version is restricted to 1024x1024 max resolution for the Erosion
 
 Object Input node - This node can convert mesh to a height map. The restriction is that all of the vertices have to have equivalent distance between each other. This means that if you have a subdivided plane or A.N.T.Landscape generate object, the vertices inside that object cannot be moved in the X and Y direction (inside the mesh editor), only in the Z direction. For now this restriction allows for a fast height map generation on a single thread. This node is very useful for landscapes generated with the A.N.T.Landscape add-on.
 
+There is still a lot of fine-tuning and user safety code to write. The main goal right now is to test the basic functionality.
+
 # Contact
-If you have any problems / bugs/ ideas please let me know. 
+If you have any problems / bugs / ideas / requests, please let me know. 
 Discord: https://discord.gg/qQ2cYHQ
 Email: val.barashkov at gmail.com
 Twitter: https://twitter.com/ValeraBarashkov
 
 # Thank You!
-Thanks for downloading and trying / testing my add-on.
+Thanks for using / testing Terrain Nodes!!
