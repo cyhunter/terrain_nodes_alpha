@@ -21,8 +21,11 @@ There is still a lot of fine-tuning and user safety code to write. The main goal
 
 # Contact
 If you have any problems / bugs / ideas / requests, please let me know. 
+
 Discord: https://discord.gg/qQ2cYHQ
+
 Email: val.barashkov at gmail.com
+
 Twitter: https://twitter.com/ValeraBarashkov
 
 # Thank You!
