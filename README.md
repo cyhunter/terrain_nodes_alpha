@@ -22,6 +22,8 @@ Object Input node - This node converts mesh to a height map. The restriction is 
 
 Viewer node - Currently very buggy, either I don't know how to make it work properly or Blender's API needs to be updated to allow for proper view upadates. This node might be removed or changed completely.
 
+Erosion node - Slope output does not output anything yet.
+
 Interface - Node that is being processed will light up green. This usually works properly but sometimes will lag one node behind.
 
 There is still a lot of fine-tuning and user safety code to write. The main goal right now is to test the basic functionality.
